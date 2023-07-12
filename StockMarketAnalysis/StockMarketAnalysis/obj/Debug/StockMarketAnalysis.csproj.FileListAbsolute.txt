@@ -1,0 +1,8 @@
+C:\PROJ_TO SORT OUT\StockMarketAnalysis\StockMarketAnalysis\bin\Debug\StockMarketAnalysis.exe.config
+C:\PROJ_TO SORT OUT\StockMarketAnalysis\StockMarketAnalysis\bin\Debug\StockMarketAnalysis.exe
+C:\PROJ_TO SORT OUT\StockMarketAnalysis\StockMarketAnalysis\bin\Debug\StockMarketAnalysis.pdb
+C:\PROJ_TO SORT OUT\StockMarketAnalysis\StockMarketAnalysis\obj\Debug\StockMarketAnalysis.csproj.AssemblyReference.cache
+C:\PROJ_TO SORT OUT\StockMarketAnalysis\StockMarketAnalysis\obj\Debug\StockMarketAnalysis.csproj.SuggestedBindingRedirects.cache
+C:\PROJ_TO SORT OUT\StockMarketAnalysis\StockMarketAnalysis\obj\Debug\StockMarketAnalysis.csproj.CoreCompileInputs.cache
+C:\PROJ_TO SORT OUT\StockMarketAnalysis\StockMarketAnalysis\obj\Debug\StockMarketAnalysis.exe
+C:\PROJ_TO SORT OUT\StockMarketAnalysis\StockMarketAnalysis\obj\Debug\StockMarketAnalysis.pdb
